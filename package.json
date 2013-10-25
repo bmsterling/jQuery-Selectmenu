@@ -1,0 +1,28 @@
+{
+  "name": "jQuery-Selectmenu",
+  "version": "0.1.0",
+  "description": "jQuery-Selectmenu\r =================",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bmsterling/jQuery-Selectmenu.git"
+  },
+  "author": "Benjamin Sterling",
+  "license": "MIT",
+  "gitHead": "734840e03a92ceb32487636d63feb7eea21b6ef2",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/bmsterling/jQuery-Selectmenu/issues"
+  },
+  "devDependencies": {
+    "grunt-bower": "~0.7.0",
+    "grunt": "~0.4.1",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-uglify": "~0.2.4",
+    "grunt-contrib-jshint": "~0.7.0",
+    "grunt-contrib-watch": "~0.5.3"
+  }
+}

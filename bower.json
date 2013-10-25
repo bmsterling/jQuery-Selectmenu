@@ -1,0 +1,20 @@
+{
+  "name": "jQuery-Selectmenu",
+  "version": "0.1.0",
+  "homepage": "https://github.com/bmsterling/jQuery-Selectmenu",
+  "authors": [
+    "Benjamin Sterling <benjamin.sterling@kenzomedia.com>"
+  ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "jquery": "~1.10.2",
+        "jquery-ui": "~1.10.3"
+    }
+}
