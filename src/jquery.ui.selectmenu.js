@@ -176,8 +176,10 @@ $.widget( "ui.selectmenu", {
             'top'      : 0,
             'left'     : 0,
             'height'   : '100%',
-            'width'    : '100%'
-        });
+            'width'    : '100%',
+            'padding'  : '0',
+            'border'   : 'none'
+        }).addClass('ui-corner-all');
     },
 
     _refresh : function () {
